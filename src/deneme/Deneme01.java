@@ -14,6 +14,7 @@ public class Deneme01 {
 		System.out.println("1. ali branch");
 		System.out.println("2. ali");
 		System.out.println("3. ali");
+		System.out.println("4. ali");
 
 
 		
